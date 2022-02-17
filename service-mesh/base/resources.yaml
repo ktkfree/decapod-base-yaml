@@ -251,7 +251,7 @@ spec:
     type: helmrepo
     repository: https://kiali.org/helm-charts
     name: kiali-operator
-    version: 1.34.0
+    version: 1.46.0
   releaseName: kiali-operator
   targetNamespace: istio-system
   values:
